@@ -1,1 +1,3 @@
 # Portifolio-1ADS-A
+  Projeto desenvolvido no colegieo Estadual doutor Gastao Vidigal, na turma do 1ADS, no ano de 2026. O objetivo desse portifolio é descrever a utilidade e a função de cada código do HTML, CSS e JS. As imagens, videos e áudios que aqui estão, foram retirados.....
+  
